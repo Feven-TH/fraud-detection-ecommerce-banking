@@ -1,0 +1,17 @@
+# Data Processing & Math
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Scaling (Necessary for Task 1 Data Transformation)
+scikit-learn
+
+# Handling Class Imbalance (Necessary for SMOTE)
+imbalanced-learn
+
+# Feature Engineering (Useful for complex categorical data)
+category_encoders
+
