@@ -1,8 +1,10 @@
 pandas
-numpy
+numpy<2.3  
 matplotlib
 seaborn
+shap
 scikit-learn
 imbalanced-learn
 category_encoders
+joblib
 pytest
